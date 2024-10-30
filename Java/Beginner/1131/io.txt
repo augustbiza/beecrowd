@@ -25,4 +25,3 @@ Input Sample	    Output Sample
                         Gremio:1
                         Empates:0
                         Inter venceu mais
-
