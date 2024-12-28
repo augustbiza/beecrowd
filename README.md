@@ -1,13 +1,11 @@
 # Notas
 ### Estrutura de diretórios
 ├── linguagem/  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── categoria/  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── io.txt  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── categoria/ 
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── main.arquivo  
 <br>
 ' linguagem ' é o nome da linguagem de programação utilizada  
-' categoria ' é a classificação do problema de acordo com os critérios da Beecrowd  
-' io.txt ' são arquivos que contem o comando da questão, exemplos de entrada e saída (inputs and outputs)  
+' categoria ' é a classificação do problema de acordo com os critérios da Beecrowd    
 ' main.arquivo ' é o arquivo que contém o código de resolução, ou pelo menos a maior parte dele, do problema
 <br> <br>
 ### OBSERVAÇÃO  
