@@ -8,7 +8,7 @@ Declaração de dois dados do tipo **int**
 ```c
 scanf("%d%d", &a, &b);
 ```
-Atribuição de valores **int** aos dois dados através da classe Scanner
+Atribuição de valores **int** aos dois dados **a** e **b**
 ```c
 printf("X = %d\n", a+b);
 ```
@@ -22,7 +22,7 @@ Declaração de dois dados do tipo **int**
 ```cpp
 std::cin>>a>>b;
 ```
-Atribuição de valores **int** aos dois dados através da classe Scanner
+Atribuição de valores **int** aos dois dados **a** e **b**
 ```c
 std::cout<<"X = "<<a+b<<std::endl;
 ```
@@ -37,7 +37,7 @@ Declaração de dois dados do tipo **int**
 a = scan.nextInt();
 b = scan.nextInt();
 ```
-Atribuição de valores **int** aos dois dados através da classe Scanner
+Atribuição de valores **int** aos dois dados **a** e **b** através da classe Scanner
 ```java
 System.out.println("X = " + (a+b));
 ```
