@@ -4,12 +4,12 @@
 
 int main(void) {
 
-    float raio, areaCirculo;
-    scanf("%f", &raio);
+    double raio, areaCirculo;
+    scanf("%lf", &raio);
 
     areaCirculo = 3.14159 * pow(raio, 2);
 
-    printf("A=%.4f\n", areaCirculo);
+    printf("A=%.4lf\n", areaCirculo);
 
     return 0;
 }
