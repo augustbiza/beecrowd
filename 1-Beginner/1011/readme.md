@@ -13,6 +13,12 @@ A função **pow(raio, 3)** retorna o valor double de raio^3
 (double)4/3
 ```
 Escrever **(double)** na frente de um int transforma o resultado em **double**
+## Compilar o código em C no Terminal
+adicione **-lm** ao final do comando de compilação
+```
+gcc bee1012.c -o exe -lm (compile)
+./exe (run)
+```
 ## Explicação C++
 ```cpp
 #include <iomanip>
