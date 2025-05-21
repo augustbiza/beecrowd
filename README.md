@@ -3,9 +3,8 @@
 Plataforma de Programação Competitiva.
 ### Linguagens de programação
 As linguagens presentes são:  
-- Java
 - C
-- C++
+- Java
 ### Categorias
 Os problemas da Beecrowd são divididos por níveis de dificuldade.  
 1. Beginner
