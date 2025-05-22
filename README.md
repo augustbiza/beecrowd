@@ -19,6 +19,7 @@ Os problemas da Beecrowd são divididos por níveis de dificuldade.
 ### Questões para treinar
 #### Lógica
 - 1021
+- 1238
 #### EOF
 - 1197
 #### Estutura Flexível
