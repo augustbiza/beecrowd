@@ -11,7 +11,7 @@ MOEDAS
 ```
 Passos  
 1. Transformar o valor em centavos
-2. Dividir o valor pelo número de centavos correspondente a nota
+2. Dividir o valor pelo número de centavos correspondente a nota/moeda
 3. Atualize o valor dos centavos subtraindo o número de centavos vezes seu valor
 ```
 R$ 123.17 = 100 + 20 + 2 + 1 + 0.10 + 0.05 + 2*0.01
