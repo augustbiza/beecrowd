@@ -9,8 +9,13 @@
 - 1238
 #### EOF (ler até o fim do arquivo-input)
 - 1197
+#### Buffer
+- 1094
 #### Estutura Flexível
 - 1110
+#### sscanf - split
+- 1022
+- 1061
 
 ### Onde Eu Parei
-- Beginner = 2/14 1047
+- Beginner = 4/14 1149
